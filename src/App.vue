@@ -4,7 +4,11 @@
 // import RefDemo from '@/views/RefDemo.vue'
 // import ToRefDemo from "@/views/toRefDemo.vue";
 // import ToRefsDemo from "@/views/toRefsDemo.vue";
-import LogicMulti from '@/views/logicMulti.vue';
+// import LogicMulti from '@/views/logicMulti.vue';
+// import VModel from "@/views/VModel/index.vue";
+// import WatchDemo from "@/views/WatchDemo.vue"
+// import GetInstance from "@/views/GetInstance.vue";
+import ScriptSetup from "@/views/ScriptSetup/index.vue";
 </script>
 
 <template>
@@ -12,5 +16,9 @@ import LogicMulti from '@/views/logicMulti.vue';
   <!-- <RefDemo /> -->
   <!-- <ToRefDemo /> -->
   <!-- <ToRefsDemo /> -->
-  <LogicMulti />
+  <!-- <LogicMulti /> -->
+  <!-- <VModel /> -->
+  <!-- <WatchDemo /> -->
+  <!-- <GetInstance /> -->
+  <ScriptSetup />
 </template>
