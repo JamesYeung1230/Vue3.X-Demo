@@ -8,7 +8,9 @@
 // import VModel from "@/views/VModel/index.vue";
 // import WatchDemo from "@/views/WatchDemo.vue"
 // import GetInstance from "@/views/GetInstance.vue";
-import ScriptSetup from "@/views/ScriptSetup/index.vue";
+// import ScriptSetup from "@/views/ScriptSetup/index.vue";
+// import Demo1 from '@/views/JSX/demo1.vue'
+import Demo1 from '@/views/JSX/demo1.tsx'
 </script>
 
 <template>
@@ -20,5 +22,6 @@ import ScriptSetup from "@/views/ScriptSetup/index.vue";
   <!-- <VModel /> -->
   <!-- <WatchDemo /> -->
   <!-- <GetInstance /> -->
-  <ScriptSetup />
+  <!-- <ScriptSetup /> -->
+  <Demo1 />
 </template>
